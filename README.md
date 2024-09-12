@@ -52,7 +52,7 @@ This repository contains certifications I have earned in the fields of Data Scie
   -   Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
 
 
-- **[ BCG's Data Science on Forage]**
+- **[BCG's Data Science on Forage]**
   -   Authorized by : BCG on Forage
   -   Completed a customer churn analysis simulation for XYZ Analytics, demonstrating advanced data analytics skills, identifying essential client data and outlining a strategic investigation approach.
   -   Conducted efficient data analysis using Python, including Pandas and NumPy. Employed data visualization techniques for insightful trend interpretation.
