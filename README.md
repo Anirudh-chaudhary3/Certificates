@@ -5,6 +5,7 @@ This repository contains certifications I have earned in the fields of Data Scie
 # Certifications List
 
 ## COURSERA CERTIFICATIONS :
+
 - **[Introduction to Data Analytics (7MNXGV8Y3NTV)] (https://coursera.org/share/d9615b7d36b7586ce8215778949de38f)**
   -   Authorized by : IBM on Coursera
   -   Overview : Covers the Career in Data Analytics , it's Ecosystem , Identifying Data for Analysis , and Career Opportunities.
@@ -40,7 +41,25 @@ This repository contains certifications I have earned in the fields of Data Scie
 - **[IBM Data Analyst Capstone Project (RZW5E6JD63LU)] (https://coursera.org/share/9c249770220c220a096d23bdd5191d61)**
   -   Authorized by : IBM on Coursera
   -   Overview : Elements of a Successful Data Findings Report and Best Practices for Presenting your Findings.
+
+
+ ## FORAGE JOB SIMULATION CERTIFICATIONS :
  
+- **[Accenture North America's Data Analytics and Visualization on Forage]**
+  -   Authorized by : Accenture on Forage
+  -   Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
+  -   Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
+  -   Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
+
+
+- **[ BCG's Data Science on Forage]**
+  -   Authorized by : BCG on Forage
+  -   Completed a customer churn analysis simulation for XYZ Analytics, demonstrating advanced data analytics skills, identifying essential client data and outlining a strategic investigation approach.
+  -   Conducted efficient data analysis using Python, including Pandas and NumPy. Employed data visualization techniques for insightful trend interpretation.
+  -   Completed the engineering and optimization of a random forest model, achieving an 85% accuracy rate in predicting customer churn.
+  -   Completed a concise executive summary for the Associate Director, delivering actionable insights for informed decision-making based on the analysis.
+ 
+
 # Contact
 Feel free to contact me if you have any questions or want to collaborate on data science projects:
 - Email: anirudhch0304@gmail.com
