@@ -41,3 +41,7 @@ This repository contains certifications I have earned in the fields of Data Scie
   -   Authorized by : IBM on Coursera
   -   Overview : Elements of a Successful Data Findings Report and Best Practices for Presenting your Findings.
  
+# Contact
+Feel free to contact me if you have any questions or want to collaborate on data science projects:
+- Email: anirudhch0304@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/anirudh-chaudhary0304/]
